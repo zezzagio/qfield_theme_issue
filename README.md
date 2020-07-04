@@ -2,10 +2,7 @@
 
 Switching theme doesn't change the associated layer edit mask... but it does!
 
-The layer "test" has two styles "type" and "name"; each style has a different customized
-attributes mask, with the same name as the style. The project has two theme: the theme
-"type" shows the layer "test" with the style "type"; the theme "name" show the layer "test"
-with the sytle "name".
+The layer "test" has two styles "type" and "name"; each style has a different customized attributes mask. The project has two themes: the theme "type" shows the layer "test" with the style "type"; the theme "name" show the layer "test" with the sytle "name".
 
 Observed behaviour in QField:
 
