@@ -22,7 +22,7 @@ Close the application.
 
    -b) select one feature, open the edit mask; the mask of style "name" is open.
 
-   -c) change theme, select theme "style"; points are red, label is "field1";
+   -c) change theme, select theme "type"; points are red, label is "field1";
 
    -d) select one feature, open the edit mask; the mask of style "name" is open.
 
